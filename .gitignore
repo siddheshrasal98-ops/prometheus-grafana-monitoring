@@ -1,0 +1,24 @@
+# Docker
+*.log
+
+# Prometheus
+prometheus_data/
+
+# Grafana
+grafana_data/
+
+# Temporary files
+*.tmp
+*.bak
+
+# macOS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
+
+# IntelliJ
+.idea/
